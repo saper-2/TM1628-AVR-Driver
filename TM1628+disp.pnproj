@@ -1,0 +1,1 @@
+<Project name="TM1628+disp"><Folder name="C"><File path="delay.c"></File><File path="usart.c"></File><File path="tm1628.c"></File></Folder><Folder name="H"><File path="delay.h"></File><File path="usart.h"></File><File path="tm1628.h"></File></Folder><File path="main.c"></File><File path="makefile"></File></Project>
